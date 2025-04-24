@@ -1,2 +1,3 @@
-console.log("POPPP UP");
-
+document.getElementById("extract").addEventListener("click", () => {
+    console.log("HII")
+});
