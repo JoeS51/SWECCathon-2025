@@ -1,6 +1,6 @@
 # SWECCathon-2025
 
-We are using (bun)[https://bun.sh/] 
+We are using [bun](https://bun.sh/)
 
 Go into wxt folder and do `bun install`
 
